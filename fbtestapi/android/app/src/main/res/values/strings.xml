@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">fbtestapi</string>
+    <string name="facebook_app_id">333522801158660</string>
+    <string name="fb_login_protocol_scheme">fb333522801158660</string>
+</resources>
